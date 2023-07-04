@@ -2,6 +2,7 @@
 
 <h3 align="center">I'm a Full Stack Developer</h3>
 
+
 ## 🌱 About Me
 
 - 💻 I'm currently focusing on PHP programming and honing my skills in building web applications.
@@ -14,13 +15,15 @@
 Here are a few projects I'm currently working on or have contributed to:
 
 - 🌐 <code>[PHP MVC Framework](https://github.com/Gafour101/PHP-MVC-Framework)</code>
-- 🌐 <code>[PHP MVC Core](https://github.com/Gafour101/php-mvc-core)</code>
+- 🌐 <code>[PHP MVC Core](https://github.com/Gafour101/gaf-php-mvc-core)</code>
+
 
 ## 🔭 What's Next
 
 - 📖 I'm excited to dive deeper into PHP frameworks like Laravel and explore their powerful features.
 - 🌐 I'm planning to improve my frontend skills, including HTML, CSS, and JavaScript, to create more engaging and interactive web experiences.
 - 🌟 I'll be actively participating in open-source projects and contributing to the developer community.
+
 
 ## 📫 Let's Connect
 
