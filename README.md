@@ -14,7 +14,7 @@
 Here are a few projects I'm currently working on or have contributed to:
 
 - 🌐 <code>[PHP MVC Framework](https://github.com/Gafour101/PHP-MVC-Framework)</code>
-
+- 🌐 <code>[PHP MVC Core](https://github.com/Gafour101/php-mvc-core)</code>
 
 ## 🔭 What's Next
 
