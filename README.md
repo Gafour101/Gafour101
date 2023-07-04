@@ -13,7 +13,7 @@
 
 Here are a few projects I'm currently working on or have contributed to:
 
-- 🌐 <code>[PHP MVC Framework](https://github.com/chandrikadeb7/100DaysOfCode)</code>
+- 🌐 <code>[PHP MVC Framework](https://github.com/Gafour101/PHP-MVC-Framework)</code>
 
 
 ## 🔭 What's Next
