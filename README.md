@@ -16,6 +16,7 @@ Here are a few projects I'm currently working on or have contributed to:
 
 - 🔍 <code>[QR Code Generator & Scanner](https://github.com/Gafour101/QRCode-Generate-Scan)</code>
 - ⚙️ <code>[PHP MVC Framework](https://github.com/Gafour101/PHP-MVC-Framework)</code>
+- ⚙️ <code>[PHP MVC Core](https://github.com/Gafour101/gaf-php-mvc-core)</code>
 
 ## 🔭 What's Next
 
